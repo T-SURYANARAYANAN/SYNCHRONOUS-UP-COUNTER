@@ -29,7 +29,15 @@ The next flip-flop need only “recognize” that the first flip-flop’s Q outp
 However, the remaining flip-flops should be made ready to toggle only when all lower-order output bits are “high,” thus the need for AND gates.
 
 ### Procedure
+1.Initialize the shift register to a known state (e.g., all zeros).
 
+2.Input a bit serially into the shift register.
+
+3.Shift the contents of the register one position to the right (or left).
+
+4.Output the shifted bit from the last stage of the register.
+
+5.Repeat steps 2-4 for each bit you want to input and shift.
 
 ### PROGRAM
 ![Screenshot 2024-12-31 121809](https://github.com/user-attachments/assets/754fa7ea-8a43-405a-ba9a-f9919357f6a7)
@@ -42,6 +50,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 ![Screenshot 2024-12-31 122054](https://github.com/user-attachments/assets/9f977656-6b03-42aa-8f2e-ff1d9b227713)
 
 ### TRUTH TABLE
+![328147210-9a84516a-c691-4b2d-a1f0-b15fdeb4504a](https://github.com/user-attachments/assets/cd86e9bf-6a0f-4d98-930f-a4fc712aad4a)
 
 ### RESULT
 Implementation of 4 bit synchronous up counter and validate functionality are successfully completed.
