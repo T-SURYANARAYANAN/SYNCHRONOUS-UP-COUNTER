@@ -47,7 +47,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 ![Screenshot 2024-12-31 121853](https://github.com/user-attachments/assets/b237c63d-e9f1-42e7-a9e5-ea53600f0be5)
 
 ### TIMING DIAGRAM FOR IP COUNTER
-![Screenshot 2024-12-31 122054](https://github.com/user-attachments/assets/9f977656-6b03-42aa-8f2e-ff1d9b227713)
+![Screenshot 2025-01-02 073940](https://github.com/user-attachments/assets/aa570cac-3823-4e3b-bee3-9773011062ce)
 
 ### TRUTH TABLE
 ![328147210-9a84516a-c691-4b2d-a1f0-b15fdeb4504a](https://github.com/user-attachments/assets/cd86e9bf-6a0f-4d98-930f-a4fc712aad4a)
